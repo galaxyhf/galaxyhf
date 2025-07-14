@@ -13,8 +13,6 @@
   💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
 </p>
 
-```md
-[![card](https://github-readme-stats.vercel.app/api?username=galaxyhf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-```
-
 [![iuricode](https://github-readme-stats.vercel.app/api?username=galaxyhf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxyhf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
