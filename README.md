@@ -131,3 +131,9 @@ Me chamo Caio, tenho 19 anos e sou do Rio de Janeiro. Atualmente, estou cursando
   />
 
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galaxyhf/galaxyhf/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/galaxyhf/galaxyhf/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/galaxyhf/galaxyhf/output/github-contribution-grid-snake.svg">
+</picture>
