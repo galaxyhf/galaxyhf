@@ -4,7 +4,7 @@
   </a>
 </div>
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Full-Stack`**
 
 Me chamo Caio, tenho 19 anos e sou do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação no UNIFESO. Sou apaixonado por tecnologia.
 
