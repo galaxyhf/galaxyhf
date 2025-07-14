@@ -11,8 +11,8 @@ Me chamo Caio, tenho 19 anos e sou do Rio de Janeiro. Atualmente, estou cursando
 <h3 align="left">Entre em contato comigo</h3>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:white)](mailto:caiogsilva2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:white)](https://www.linkedin.com/in/caio-silva-472498266/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:white)](https://www.instagram.com/cai0_gs/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:white)](https://www.linkedin.com/in/caio-silva-472498266/)
 
 
 ### 🤖 Linguagens e Tecnologias
