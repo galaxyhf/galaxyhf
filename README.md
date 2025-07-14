@@ -1,30 +1,19 @@
-# 👩🏻‍💻 Caio G. Silva
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=Ola,+seja+bem+vindo!+%CB%99%E1%B5%95%CB%99++" alt="Typing SVG">
+  </a>
+</div>
 
 **`Desenvolvedor FullStack`**
 
 Me chamo Caio, tenho 19 anos e sou do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação no UNIFESO. Sou apaixonado por tecnologia.
 
-<p align="left">
-    <a href="https://www.instagram.com/cai0_gs">
-        <img 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/caio-silva-472498266">
-        <img 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-     <a href="colocar">
-        <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-    <a href="colocar">
-        <img 
-            src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"
-        />
-    </a>
+<h3 align="left">Connect with me!</h3>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:white)](mailto:caiogsilva2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:white)](https://www.linkedin.com/in/caio-silva-472498266/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:white)](https://www.instagram.com/cai0_gs/)
+
 
 ### 🤖 Linguagens e Tecnologias
 
