@@ -6,7 +6,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Caio, tenho 19 anos e sou do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação no UNIFESO. Sou apaixonado por tecnologia.
+Meu nome é **Caio Silva**, sou estudante de Ciência da Computação no UNIFESO e tenho uma forte paixão por tecnologia. Estou me preparando para atuar como desenvolvedor full stack, aprendendo tanto o front-end quanto o back-end, e buscando sempre entender o funcionamento completo de aplicações web.
 
 <h3 align="left">Entre em contato comigo</h3>
 
