@@ -117,7 +117,7 @@ Meu nome é **Caio Silva**, sou estudante de Ciência da Computação no UNIFESO
 <br/>
 <br/>
 
-### Estatísticas
+### 📊 Estatísticas
 
 <div align="center" style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
   <img
