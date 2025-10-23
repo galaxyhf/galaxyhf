@@ -117,26 +117,27 @@ Meu nome é **Caio Silva**, sou estudante de Ciência da Computação no UNIFESO
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=galaxyhf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<p align="center">
+  <img
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=galaxyhf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-  
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=galaxyhf&theme=tokyonight&locale=pt-br"/>
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxyhf&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br" 
+<p align="center">
+  <img
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=galaxyhf&theme=tokyonight&locale=pt-br"
   />
-  
+</p>
+
+<p align="center">
+  <img
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxyhf&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br"
+  />
 </p>
 
 <picture align="center">
