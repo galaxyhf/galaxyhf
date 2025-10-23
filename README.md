@@ -119,25 +119,25 @@ Meu nome é **Caio Silva**, sou estudante de Ciência da Computação no UNIFESO
 
 ### Estatísticas
 
-<p align="center">
+<div align="center" style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
   <img
     alt="GitHub Stats"
+    height="170"
     src="https://github-readme-stats.vercel.app/api?username=galaxyhf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-</p>
-
-<p align="center">
+/>
   <img
     alt="GitHub Streak"
+    height="170"
     src="https://streak-stats.demolab.com?user=galaxyhf&theme=tokyonight&locale=pt-br"
-  />
-</p>
+/>
+</div>
 
 <p align="center">
   <img
     alt="Top Languages"
+    height="150"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxyhf&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br"
-  />
+/>
 </p>
 
 <picture align="center">
