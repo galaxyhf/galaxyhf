@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6300F7&center=true&vCenter=true&random=false&width=524&lines=Ola,+seja+bem+vindo!+%CB%99%E1%B5%95%CB%99+;Full-Stack+Developer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6300F7&center=true&vCenter=true&random=false&width=524&lines=Ola,+seja+bem+vindo!+%CB%99%E1%B5%95%CB%99+;Web+Developer" alt="Typing SVG">
   </a>
 </div>
 
-**`Desenvolvedor Full-Stack`**
+**`Desenvolvedor Web`**
 
-Meu nome é **Caio Silva**, sou estudante de Ciência da Computação no UNIFESO e tenho uma forte paixão por tecnologia. Estou me preparando para atuar como desenvolvedor full stack, aprendendo tanto o front-end quanto o back-end, e buscando sempre entender o funcionamento completo de aplicações web.
+Meu nome é **Caio Silva**, sou estudante de Ciência da Computação no UNIFESO e tenho uma profunda paixão por tecnologia e inovação. Estou me especializando como desenvolvedor web, com foco na criação de interfaces modernas e funcionais no front-end. Busco constantemente aprimorar minhas habilidades técnicas e compreender o ciclo completo de desenvolvimento de aplicações web, desde o design de experiência do usuário até a implementação de soluções escaláveis e eficientes.​
 
 <h3 align="left">Entre em contato comigo</h3>
 
