@@ -59,6 +59,14 @@ Meu nome é **Caio Silva**, sou estudante de Ciência da Computação no UNIFESO
 />
 <img 
     align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="ViteJS" 
     title="ViteJS"
     width="35px" 
@@ -96,6 +104,14 @@ Meu nome é **Caio Silva**, sou estudante de Ciência da Computação no UNIFESO
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Supabase" 
+    title="Supabase"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" 
 />
 <img 
     align="left" 
