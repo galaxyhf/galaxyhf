@@ -13,6 +13,7 @@ Meu nome é **Caio Silva**, sou estudante de Ciência da Computação no UNIFESO
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:white)](mailto:caiogsilva2005@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:white)](https://www.instagram.com/cai0_gs/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:white)](https://www.linkedin.com/in/caio-silva-472498266/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=FF00F6&color=black)](https://caiosilva.vercel.app)
 
 
 ### 🤖 Linguagens e Tecnologias
