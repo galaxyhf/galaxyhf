@@ -52,6 +52,14 @@ Meu nome é **Caio Silva**, sou estudante de Ciência da Computação no UNIFESO
 />
 <img 
     align="left" 
+    alt="Tauri" 
+    title="Tauri"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React" 
     title="React"
     width="35px" 
