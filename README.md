@@ -148,7 +148,7 @@ Meu nome é **Caio Silva**, sou estudante de Ciência da Computação no UNIFESO
   <img
     alt="GitHub Stats"
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=galaxyhf&show_icons=true&theme=tokyonight&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api?username=galaxyhf&show_icons=true&theme=tokyonight&locale=pt-br"
 />
   <img
     alt="GitHub Streak"
@@ -161,7 +161,7 @@ Meu nome é **Caio Silva**, sou estudante de Ciência da Computação no UNIFESO
   <img
     alt="Top Languages"
     height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxyhf&theme=tokyonight&layout=compact&langs_count=4&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=galaxyhf&theme=tokyonight&layout=compact&langs_count=4&locale=pt-br"
 />
 </p>
 
