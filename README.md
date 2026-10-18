@@ -116,6 +116,14 @@ Meu nome é **Caio Silva**, sou estudante de Ciência da Computação no UNIFESO
 />
 <img 
     align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Supabase" 
     title="Supabase"
     width="35px" 
